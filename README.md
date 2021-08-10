@@ -36,7 +36,7 @@ Under SA, the amount that should be held as capital for every retail exposure as
 * Motgages: 35%
 IRB Approaches: allow banks to establish their own credit ratings, make precise calcullaation about held capital, and allocate resources to cover losses
 
-
+### Data Preprocessing
 Fine-Classing: splitting variables into roughly equal categories according to some internal criterion
 
 Coarse Classing: splitting variables into roughly equal categories according to some external criterion
