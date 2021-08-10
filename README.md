@@ -3,6 +3,7 @@ Building Base II, Base III compliant credit risk models in Python (PD, LGD, EAD)
 
 ### Data
 Consumer loans
+All variables are converted to dummy variables
 
 ### Expected Loss (EL)
 Lenders know that there is credit risk associated with EVERY borrower, therefore a key metric when modeling credit risk is to acccount for Expected Loss (EL). 
@@ -33,4 +34,12 @@ Basel II Accord: to ensure that the capital allocation carried out by the bank i
 Calculations differ by product types, and borrower entities (retail, corporate)
 Under SA, the amount that should be held as capital for every retail exposure as apercentage of the total exposure is 75%
 * Motgages: 35%
-IRB Approaches: allow banks to establish their own credit ratings, make precise calcullaation about held capital, and allocate resources to cover lossses
+IRB Approaches: allow banks to establish their own credit ratings, make precise calcullaation about held capital, and allocate resources to cover losses
+
+
+Fine-Classing: splitting variables into roughly equal categories according to some internal criterion
+Coarse Classing: splitting variables into roughly equal categories according to some external criterion
+
+**Weight of Evidence**: shows to what extent an independent variable would predict a dependent variable... indicates how much information a category of an independent variable brings with repect to explaining the dependent variable
+
+Information Value: weighted average of the weights of evidence... shows how much information the original independent variable brings with respect to explaining the dependent variable ... can be used for variable selection of corresponding model predictors, with values ranging between 0-1.
