@@ -41,6 +41,6 @@ Fine-Classing: splitting variables into roughly equal categories according to so
 
 Coarse Classing: splitting variables into roughly equal categories according to some external criterion
 
-**Weight of Evidence**: shows to what extent an independent variable would predict a dependent variable... indicates how much information a category of an independent variable brings with repect to explaining the dependent variable
+**Weight of Evidence (WoE)**: shows to what extent an independent variable would predict a dependent variable... indicates how much information a category of an independent variable brings with repect to explaining the dependent variable
 
-**Information Value**: weighted average of the weights of evidence... shows how much information the original independent variable brings with respect to explaining the dependent variable ... can be used for variable selection of corresponding model predictors, with values ranging between 0-1.
+**Information Value (IV)**: weighted average of the weights of evidence... shows how much information the original independent variable brings with respect to explaining the dependent variable ... can be used for variable selection of corresponding model predictors, with values ranging between 0-1.
