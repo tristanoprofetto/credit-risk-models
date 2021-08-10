@@ -38,6 +38,7 @@ IRB Approaches: allow banks to establish their own credit ratings, make precise 
 
 
 Fine-Classing: splitting variables into roughly equal categories according to some internal criterion
+
 Coarse Classing: splitting variables into roughly equal categories according to some external criterion
 
 **Weight of Evidence**: shows to what extent an independent variable would predict a dependent variable... indicates how much information a category of an independent variable brings with repect to explaining the dependent variable
