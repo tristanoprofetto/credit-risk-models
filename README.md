@@ -34,7 +34,7 @@ Basel II Accord: to ensure that the capital allocation carried out by the bank i
 Calculations differ by product types, and borrower entities (retail, corporate)
 Under SA, the amount that should be held as capital for every retail exposure as apercentage of the total exposure is 75%
 * Motgages: 35%
-IRB Approaches: allow banks to establish their own credit ratings, make precise calcullaation about held capital, and allocate resources to cover losses
+IRB Approaches: allow banks to establish their own credit ratings, make precise calculations about held capital, and allocate resources to cover losses
 
 ### Data Preprocessing
 Fine-Classing: splitting variables into roughly equal categories according to some internal criterion
