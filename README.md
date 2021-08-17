@@ -57,3 +57,5 @@ Kolmogorov-Smirnov: the max difference between the cumulative distribution funct
 ### Model Applications
 
 Scorecards: provides credit worthiness assesment based on the probability of default model
+
+Cut-Off Rate: predetermines the total number of borrowers that will be approved and rejected ... impacts the quality of the loans
