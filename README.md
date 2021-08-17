@@ -44,3 +44,11 @@ Coarse Classing: splitting variables into roughly equal categories according to 
 **Weight of Evidence (WoE)**: shows to what extent an independent variable would predict a dependent variable... indicates how much information a category of an independent variable brings with repect to explaining the dependent variable
 
 **Information Value (IV)**: weighted average of the weights of evidence... shows how much information the original independent variable brings with respect to explaining the dependent variable ... can be used for variable selection of corresponding model predictors, with values ranging between 0-1.
+
+
+
+### Model Evaluation
+
+Gini Coefficient: measures the inequality between good and bad borrowers for loans ... measured by plotting the proportion of defaulted borrowers against all borrowers
+
+Kolmogorov-Smirnov: the max difference between the cumulative distribution functions of 'good' and 'bad borrowers with respect to predicted probabilities ... shows to what extent the model truly seperated good borrowers from bad borrowers
