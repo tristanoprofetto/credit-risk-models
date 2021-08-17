@@ -52,3 +52,8 @@ Coarse Classing: splitting variables into roughly equal categories according to 
 Gini Coefficient: measures the inequality between good and bad borrowers for loans ... measured by plotting the proportion of defaulted borrowers against all borrowers
 
 Kolmogorov-Smirnov: the max difference between the cumulative distribution functions of 'good' and 'bad borrowers with respect to predicted probabilities ... shows to what extent the model truly seperated good borrowers from bad borrowers
+
+
+### Model Applications
+
+Scorecards: provides credit worthiness assesment based on the probability of default model
