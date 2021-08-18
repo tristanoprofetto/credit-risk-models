@@ -71,3 +71,10 @@ PSI: values between 0-1:
 * 0.1 < PSI < 0.25: different
 * PSI > 0.25: big difference
 * PSI = 1: absolute difference
+
+
+When building LGD, EAD models, it is good practice to build models with data from borrowers who have had time to repay part of the remaining debt
+
+Dependant variables in LGD, EAD models:
+* Recovery Rate = recoveries / funded amount
+* Credit Conversion Factor: proportion of the total exposure at the moment of default
