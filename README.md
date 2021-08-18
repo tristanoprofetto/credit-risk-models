@@ -59,3 +59,15 @@ Kolmogorov-Smirnov: the max difference between the cumulative distribution funct
 Scorecards: provides credit worthiness assesment based on the probability of default model
 
 Cut-Off Rate: predetermines the total number of borrowers that will be approved and rejected ... impacts the quality of the loans
+
+
+### Model Maitenance
+
+Assesing population stability: using PSI to determine whether there is a significant change in our data which can cause a drift in our models performance.
+
+PSI: values between 0-1:
+* PSI = 0: no difference
+* PSI < 0.1: little difference
+* 0.1 < PSI < 0.25: different
+* PSI > 0.25: big difference
+* PSI = 1: absolute difference
